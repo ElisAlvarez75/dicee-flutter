@@ -20,9 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e4730eb-15aa-49d0-ab51-5c95fe722f63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/2b359148ce09a6a20ef2bde48e98699a/.filecache" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/2b359148ce09a6a20ef2bde48e98699a/.filecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/2b359148ce09a6a20ef2bde48e98699a/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/2b359148ce09a6a20ef2bde48e98699a/app.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/2b359148ce09a6a20ef2bde48e98699a/debug_ios_bundle_flutter_assets.stamp" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/2b359148ce09a6a20ef2bde48e98699a/debug_ios_bundle_flutter_assets.stamp" afterDir="false" />
@@ -61,6 +58,7 @@
       <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,25 +127,30 @@
       <screen x="55" y="25" width="1737" height="1095" />
     </state>
     <state x="523" y="217" key="#Plugins/55.25.1737.1095@55.25.1737.1095" timestamp="1614102921623" />
-    <state width="1200" height="301" key="GridCell.Tab.0.bottom" timestamp="1614109283689">
-      <screen x="54" y="25" width="1738" height="1095" />
+    <state width="2195" height="364" key="GridCell.Tab.0.bottom" timestamp="1614122237461">
+      <screen x="0" y="25" width="2560" height="1312" />
     </state>
+    <state width="2195" height="364" key="GridCell.Tab.0.bottom/-1920.72.1920.1080/2560.81.1920.1080/0.25.2560.1312@0.25.2560.1312" timestamp="1614122237461" />
     <state width="1200" height="301" key="GridCell.Tab.0.bottom/54.25.1738.1095@54.25.1738.1095" timestamp="1614109283689" />
-    <state width="1200" height="301" key="GridCell.Tab.0.center" timestamp="1614109283689">
-      <screen x="54" y="25" width="1738" height="1095" />
+    <state width="2195" height="364" key="GridCell.Tab.0.center" timestamp="1614122237461">
+      <screen x="0" y="25" width="2560" height="1312" />
     </state>
+    <state width="2195" height="364" key="GridCell.Tab.0.center/-1920.72.1920.1080/2560.81.1920.1080/0.25.2560.1312@0.25.2560.1312" timestamp="1614122237461" />
     <state width="1200" height="301" key="GridCell.Tab.0.center/54.25.1738.1095@54.25.1738.1095" timestamp="1614109283689" />
-    <state width="1200" height="301" key="GridCell.Tab.0.left" timestamp="1614109283689">
-      <screen x="54" y="25" width="1738" height="1095" />
+    <state width="2195" height="364" key="GridCell.Tab.0.left" timestamp="1614122237460">
+      <screen x="0" y="25" width="2560" height="1312" />
     </state>
+    <state width="2195" height="364" key="GridCell.Tab.0.left/-1920.72.1920.1080/2560.81.1920.1080/0.25.2560.1312@0.25.2560.1312" timestamp="1614122237460" />
     <state width="1200" height="301" key="GridCell.Tab.0.left/54.25.1738.1095@54.25.1738.1095" timestamp="1614109283689" />
-    <state width="1200" height="301" key="GridCell.Tab.0.right" timestamp="1614109283689">
-      <screen x="54" y="25" width="1738" height="1095" />
+    <state width="2195" height="364" key="GridCell.Tab.0.right" timestamp="1614122237461">
+      <screen x="0" y="25" width="2560" height="1312" />
     </state>
+    <state width="2195" height="364" key="GridCell.Tab.0.right/-1920.72.1920.1080/2560.81.1920.1080/0.25.2560.1312@0.25.2560.1312" timestamp="1614122237461" />
     <state width="1200" height="301" key="GridCell.Tab.0.right/54.25.1738.1095@54.25.1738.1095" timestamp="1614109283689" />
-    <state x="424" y="208" key="SettingsEditor" timestamp="1614103746873">
-      <screen x="54" y="25" width="1738" height="1095" />
+    <state x="545" y="244" key="SettingsEditor" timestamp="1614120314218">
+      <screen x="0" y="25" width="2560" height="1312" />
     </state>
+    <state x="545" y="244" key="SettingsEditor/-1920.72.1920.1080/2560.81.1920.1080/0.25.2560.1312@0.25.2560.1312" timestamp="1614120314218" />
     <state x="424" y="208" key="SettingsEditor/54.25.1738.1095@54.25.1738.1095" timestamp="1614103746873" />
     <state x="425" y="208" key="SettingsEditor/55.25.1737.1095@55.25.1737.1095" timestamp="1614103039891" />
   </component>
