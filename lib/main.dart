@@ -34,9 +34,7 @@ class _DicepageState extends State<DicePage> {
             flex: 1,
             child: FlatButton(
               onPressed: () {
-                setState(() {
-                  leftDiceNumber = Random().nextInt(6) + 1;
-                });
+                changeDice();
               },
               child: Image.asset('images/dice$leftDiceNumber.png'),
             ),
@@ -45,9 +43,7 @@ class _DicepageState extends State<DicePage> {
             flex: 1,
             child: FlatButton(
               onPressed: () {
-                setState(() {
-                  rightDiceNumber = Random().nextInt(6) + 1;
-                });
+                changeDice();
               },
               child: Image.asset('images/dice$rightDiceNumber.png'),
             ),
@@ -55,5 +51,12 @@ class _DicepageState extends State<DicePage> {
         ],
       ),
     );
+  }
+
+  void changeDice() {
+    setState(() {
+      rightDiceNumber = Random().nextInt(6) + 1;
+      leftDiceNumber = Random().nextInt(6) + 1;
+    });
   }
 }
